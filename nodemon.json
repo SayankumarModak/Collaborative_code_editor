@@ -1,0 +1,7 @@
+{
+  "ignore": [
+    "temp/*",
+    "src/temp/*",
+    "*.log"
+  ]
+}
